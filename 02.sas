@@ -1,1 +1,5 @@
-hello world
+data ;
+put "hello world";
+run;
+
+
