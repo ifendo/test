@@ -1,1 +1,4 @@
 I put some text here for testing.
+
+After adding the "git remote add origin https://github.com/ifendo/test.git", 
+I made another change to this file.
